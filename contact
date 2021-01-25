@@ -16,34 +16,14 @@
     <link rel='next' href='https://twitter.com/szwrc'>
     <link rel='prev' href='https://www.instagram.com/szwrc/'>
     <style>
-      a:link
-      {
-        color: black;
-        text-decoration: none;
-      }
-      a:visited
-      {
-        color: black;
-      }
-      a:hover
-      {
-        color: grey;
-        text-decoration: none;
-      }
-      a:active
-      {
-        color: grey;
-        text-decoration: none;
-      }
       body
       {
-        background-color: white;
-        color: black;
+        background-color: rgb(240,239,235);
       }
       h1
       {
         position: absolute;
-        top: 30%;
+        top: 40%;
         left: 50%;
         transform: translateX(-50%) translateY(-50%);
 
@@ -55,6 +35,6 @@
     </style>
   </head>
   <body>
-    <h1>SZ&#8203;WR&#8203;C<a href='contact' hreflang='en' rel='author' title='  &#9990;  ' type='text/html'>&amp;</a>&#8203;<span style='color:grey;'>CO</span><img src='bug.gif' alt='&#x1F577;' title='  this is not a &#x1F577;  '></h1>
+    <h1><a href='https://www.linkedin.com/in/szwrc/' hreflang='en' rel='author external'><img src='szwrc.png' alt='&#127362;&#127369; SZWRC' title='  &#127362;&#127369; SZWRC  '></a></h1>
   </body>
 </html>
