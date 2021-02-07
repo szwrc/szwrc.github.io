@@ -1,6 +1,6 @@
-![SZ](https://szwrc.co/favicon-32x32.png  "SZ")
-
+![SZ](https://szwrc.co/favicon-32x32.png  "SZ")\
 INTERTWINGULARITY\
+✂︎・・・・・・・・・・\
 [__🆂🆉 SZWARC__](https://linkedin.com/in/szwrc "🆂🆉 SZWARC")\
 __[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
 Partner\
