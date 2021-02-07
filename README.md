@@ -1,3 +1,5 @@
+![SZ](https://szwrc.co/favicon-32x32.png  "SZ")
+
 INTERTWINGULARITY\
 [__🆂🆉 SZWARC__](https://linkedin.com/in/szwrc "🆂🆉 SZWARC")\
 __[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
@@ -25,5 +27,4 @@ SWITZERLAND
 [telegram.me/szwrc](https://t.me/szwrc "TELEGRAM")\
 [twitter.com/szwrc](https://twitter.com/szwrc "TWITTER")
 
-
-
+![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518 "SZWRC&CO")
