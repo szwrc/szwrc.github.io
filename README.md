@@ -1,8 +1,9 @@
+INTERTWINGULARITY\
 [__🆂🆉 SZWARC__](https://linkedin.com/in/szwrc "🆂🆉 SZWARC")\
-Partner\
-__[SZWRC&CO](https://szwrc.co "SZWRC&CO")__
+__[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
+Partner
 
-[+41 78 749 73 97 ☎︎](tel:/+41787497397 "+41 78 749 73 97 ☎︎")
+[+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")
 
 ℅\
 TECHNOPARKSTRASSE 1\
@@ -23,4 +24,6 @@ SWITZERLAND
 [szwrc.tumblr.com](https://szwrc.tumblr.com/ "TUMBLR")\
 [telegram.me/szwrc](https://t.me/szwrc "TELEGRAM")\
 [twitter.com/szwrc](https://twitter.com/szwrc "TWITTER")
+
+
 
