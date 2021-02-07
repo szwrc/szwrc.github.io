@@ -17,8 +17,8 @@ SWITZERLAND\
 [getpocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
 [instagram.com/szwrc](https://instagram.com/szwrc "INSTAGRAM")\
-[linkedin.com/company/szwrc](https://linkedin.com/company/szwrc "LINKEDIN")\
-[linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN C")\
+[linkedin.com/company/szwrc](https://linkedin.com/company/szwrc "LINKEDIN C")\
+[linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
 [reddit.com/user/szwrc](https://reddit.com/user/szwrc "REDDIT")\
 [szwrc.co](https://szwrc.co "SZWRC&CO")\
