@@ -1,3 +1,4 @@
+✂︎・・・・・・・・・・\
 ![SZ](https://szwrc.co/favicon-32x32.png  "SZ")\
 INTERTWINGULARITY\
 ✂︎・・・・・・・・・・\
