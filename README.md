@@ -19,6 +19,7 @@ SWITZERLAND\
 [linkedin.com/company/szwrc](https://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
+[plausible.io/szwrc.co](https://plausible.io/szwrc.co "PLAUSIBLE")\
 [pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
 [reddit.com/user/szwrc](https://reddit.com/user/szwrc "REDDIT")\
 [szwrc.co](https://szwrc.co "SZWRC&CO")\
@@ -26,6 +27,7 @@ SWITZERLAND\
 [szwrc.tumblr.com](https://szwrc.tumblr.com/ "TUMBLR")\
 [telegram.me/szwrc](https://t.me/szwrc "TELEGRAM")\
 [twitter.com/szwrc](https://twitter.com/szwrc "TWITTER")\
+[websitecarbon.com/website/szwrc-co](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON")\
 ✂︎・・・・・・・・・・\
 ![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518 "SZWRC&CO")\
 ✂︎・・・・・・・・・・\
