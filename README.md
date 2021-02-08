@@ -14,12 +14,12 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [about.me/szwrc](https://about.me/szwrc "ABOUT.ME")\
 [ello.co/szwrc](https://ello.co/szwrc "ELLO")\
-[getpocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
 [instagram.com/szwrc](https://instagram.com/szwrc "INSTAGRAM")\
 [linkedin.com/company/szwrc](https://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
+[pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
 [reddit.com/user/szwrc](https://reddit.com/user/szwrc "REDDIT")\
 [szwrc.co](https://szwrc.co "SZWRC&CO")\
 [szwrc.medium.com](https://szwrc.medium.com/ "MEDIUM")\
