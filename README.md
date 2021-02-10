@@ -15,8 +15,8 @@ SWITZERLAND\
 [about.me/szwrc](https://about.me/szwrc "ABOUT.ME")\
 [ello.co/szwrc](https://ello.co/szwrc "ELLO")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
-[gravatar.com/szwrc](https://gravatar.com/szwrc "GITHUB")\
-[instagram.com/szwrc](https://instagram.com/szwrc "GRAVATAR")\
+[gravatar.com/szwrc](https://gravatar.com/szwrc "GRAVATAR")\
+[instagram.com/szwrc](https://instagram.com/szwrc "INSTAGRAM")\
 [linkedin.com/company/szwrc](https://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
