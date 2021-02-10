@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/szwrc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+ * I am an admin of https://szwrc.co
+ * I am szwrc (https://keybase.io/szwrc) on keybase.
+ * I have a public key ASDWdvDm07bDv29kiLMGldtB9S8FOZSN9ngQJVQfrRFsiQo
+
+To do so, I am signing this object:
+
+{
+ "body": {
+   "key": {
+     "eldest_kid": "0120d676f0e6d3b6c3bf6f6488b30695db41f52f0539948df6781025541fad116c890a",
+     "host": "keybase.io",
+     "kid": "0120d676f0e6d3b6c3bf6f6488b30695db41f52f0539948df6781025541fad116c890a",
+     "uid": "63ff9082641804ccc2957a3812ff4119",
+     "username": "szwrc"
+   },
+   "merkle_root": {
+     "ctime": 1613001086,
+     "hash": "fd6ee8a75bb3c52e2ffa8f08fced87ead78c37238f934d0520352ae422b31aae1df1fc2e5fdb27a6bbabc10646d396ea5344fdfe15de235c7f16e7cf543a16c9",
+     "hash_meta": "6250c63957503fef6a914a28a8702f0d27d5ea1fbdff22b4af53da09ddd313d2",
+     "seqno": 19075671
+   },
+   "service": {
+     "entropy": "ENEe4kh/LVC18Jzynn4mYcdw",
+     "hostname": "szwrc.co",
+     "protocol": "https:"
+   },
+   "type": "web_service_binding",
+   "version": 2
+ },
+ "client": {
+   "name": "keybase.io go client",
+   "version": "5.6.0"
+ },
+ "ctime": 1613001147,
+ "expire_in": 504576000,
+ "prev": "d97875fa6c7e0ceb847a9a08e98b5a17c967213df4b1bfb9632667b6d0f77f7e",
+ "seqno": 8,
+ "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1nbw5tO2w79vZIizBpXbQfUvBTmUjfZ4ECVUH60RbIkKp3BheWxvYWTESpcCCMQg2Xh1+mx+DOuEepoI6YtaF8lnIT30sb+5YyZnttD3f37EIKz2C1t4PGgZn4pJXhoDMiXsfUpLQofqLJUjfDSGXYYzAgHCo3NpZ8RA6Gr4ZvBbmTugp8HR4GsVoG5h9R0QhNavVMRXdGIIO5y82n1ho26721KhPP+NWr1Qjnx9AIk9sDio9p6RctezCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGD9GyqV6Lhml3Of++iIuoR0TMfxh++c592azijcKB9Xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/szwrc
+
+==================================================================
