@@ -21,7 +21,7 @@ SWITZERLAND\
 [keybase.io/szwrc](https://keybase.io/szwrc "KEYBASE")\
 [linkedin.com/company/szwrc](http://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
-[mastodon.online/@szwrc](https://mastodon.online/@szwrc "MASTODON")
+[mastodon.online/@szwrc](https://mastodon.online/@szwrc "MASTODON")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
 [plausible.io/szwrc.co](https://plausible.io/szwrc.co "PLAUSIBLE")\
 [pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
