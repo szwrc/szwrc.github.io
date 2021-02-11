@@ -2,7 +2,7 @@
 ![SZ](https://szwrc.co/favicon-32x32.png  "SZ")\
 INTERTWINGULARITY\
 ✂︎・・・・・・・・・・\
-[__🆂🆉 SZWARC__](https://linkedin.com/in/szwrc "🆂🆉 SZWARC")\
+[__🆂🆉 SZWRC__](https://linkedin.com/in/szwrc "🆂🆉 SZWRC")\
 __[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
 Partner\
 [+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\
@@ -13,6 +13,7 @@ TECHNOPARKSTRASSE 1\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [about.me/szwrc](https://about.me/szwrc "ABOUT.ME")\
+[discord.com/szwrc#1026](https://discordhub.com/profile/809384130847571998 "DISCORD")\
 [ello.co/szwrc](https://ello.co/szwrc "ELLO")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
 [gravatar.com/szwrc](https://gravatar.com/szwrc "GRAVATAR")\
@@ -33,5 +34,5 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 ![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518 "SZWRC&CO")\
 ✂︎・・・・・・・・・・\
-![🆂🆉 SZWARC](https://szwrc.co/szwrc.png "🆂🆉 SZWARC")\
+![🆂🆉 SZWRC](https://szwrc.co/szwrc.png "🆂🆉 SZWRC")\
 ✂︎・・・・・・・・・・
