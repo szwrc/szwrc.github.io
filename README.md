@@ -13,7 +13,7 @@ TECHNOPARKSTRASSE 1\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [about.me/szwrc](https://about.me/szwrc "ABOUT.ME")\
-[discord.com/szwrc#1026](https://discordhub.com/profile/809384130847571998 "DISCORD")\
+[discord.com/szwrc](https://discordhub.com/profile/809384130847571998 "DISCORD")\
 [ello.co/szwrc](https://ello.co/szwrc "ELLO")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
 [gravatar.com/szwrc](https://gravatar.com/szwrc "GRAVATAR")\
