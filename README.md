@@ -27,6 +27,7 @@ SWITZERLAND\
 [pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
 [reddit.com/user/szwrc](https://reddit.com/user/szwrc "REDDIT")\
 [szwrc.co](https://szwrc.co "SZWRC&CO") ✖︎\
+[szwrc.livejournal.com](https://szwrc.livejournal.com/profile "LIVEJOURNAL")\
 [szwrc.medium.com](https://szwrc.medium.com/ "MEDIUM")\
 [szwrc.tumblr.com](https://szwrc.tumblr.com/ "TUMBLR")\
 [telegram.me/szwrc](https://t.me/szwrc "TELEGRAM")\
