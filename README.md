@@ -12,29 +12,28 @@ TECHNOPARKSTRASSE 1\
 8005 ZÜRICH\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
-[about.me/szwrc](https://about.me/szwrc "ABOUT")\
-[discord.com/szwrc](https://discordhub.com/profile/809384130847571998 "DISCORD")\
-[ello.co/szwrc](https://ello.co/szwrc "ELLO")\
-[github.com/szwrc](https://github.com/szwrc "GITHUB")\
-[gravatar.com/szwrc](https://gravatar.com/szwrc "GRAVATAR")\
-[instagram.com/szwrc](https://instagram.com/szwrc "INSTAGRAM")\
-[keybase.io/szwrc](https://keybase.io/szwrc "KEYBASE")\
-[linkedin.com/company/szwrc](http://linkedin.com/company/szwrc "LINKEDIN")\
-[linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
-[mastodon.online/@szwrc](https://mastodon.online/@szwrc "MASTODON")\
-[observablehq.com/@szwrc](https://observablehq.com/@szwrc "OBSERVABLE")\
-[orcid.org/0000-0001-7745-0497](https://orcid.org/0000-0001-7745-0497 "ORCID")\
-[pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
-[plausible.io/szwrc.co](https://plausible.io/szwrc.co "PLAUSIBLE")\
-[pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
-[reddit.com/user/szwrc](https://reddit.com/user/szwrc "REDDIT")\
-[szwrc.co](https://szwrc.co "SZWRC&CO") ✖︎\
-[szwrc.livejournal.com](https://szwrc.livejournal.com/profile "LIVEJOURNAL")\
-[szwrc.medium.com](https://szwrc.medium.com/ "MEDIUM")\
-[szwrc.tumblr.com](https://szwrc.tumblr.com/ "TUMBLR")\
-[telegram.me/szwrc](https://t.me/szwrc "TELEGRAM")\
-[twitter.com/szwrc](https://twitter.com/szwrc "TWITTER")\
-[websitecarbon.com/website/szwrc-co](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON")\
+[ABOUT](https://about.me/szwrc "ABOUT")\
+[DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD")\
+[ELLO](https://ello.co/szwrc "ELLO")\
+[GITHUB](https://github.com/szwrc "GITHUB")\
+[GRAVATAR](https://gravatar.com/szwrc "GRAVATAR")\
+[INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM")\
+[KEYBASE](https://keybase.io/szwrc "KEYBASE")\
+[LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN")\
+[LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL")\
+[MASTODON](https://mastodon.online/@szwrc "MASTODON")\
+[MEDIUM](https://szwrc.medium.com/ "MEDIUM")\
+[OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE")\
+[ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
+[PINTEREST](https://pinterest.com/szwrc "PINTEREST")\
+[PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE")\
+[POCKET](https://getpocket.com/@szwrc "POCKET")\
+[REDDIT](https://reddit.com/user/szwrc "REDDIT")\
+[TELEGRAM](https://t.me/szwrc "TELEGRAM")\
+[TUMBLR](https://szwrc.tumblr.com/ "TUMBLR")\
+[TWITTER](https://twitter.com/szwrc "TWITTER")\
+[WEB](https://szwrc.co "SZWRC&CO") ✖︎\
+[WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON")\
 ✂︎・・・・・・・・・・\
 [![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518)](https://szwrc.co "SZWRC&CO")\
 ✂︎・・・・・・・・・・\
