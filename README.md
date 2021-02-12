@@ -1,5 +1,5 @@
 ✂︎・・・・・・・・・・\
-![SZ](https://szwrc.co/favicon-32x32.png  "SZ")\
+[![🆂🆉](https://szwrc.co/favicon-32x32.png)](https://szwrc.co "🆂🆉")\
 INTERTWINGULARITY\
 ✂︎・・・・・・・・・・\
 [__🆂🆉 SZWRC__](https://linkedin.com/in/szwrc "🆂🆉 SZWRC")\
