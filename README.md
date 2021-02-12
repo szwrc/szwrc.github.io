@@ -22,6 +22,7 @@ SWITZERLAND\
 [linkedin.com/company/szwrc](http://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [mastodon.online/@szwrc](https://mastodon.online/@szwrc "MASTODON")\
+[observablehq.com/@szwrc](https://observablehq.com/@szwrc "OBSERVABLE")\
 [orcid.org/0000-0001-7745-0497](https://orcid.org/0000-0001-7745-0497 "ORCID")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
 [plausible.io/szwrc.co](https://plausible.io/szwrc.co "PLAUSIBLE")\
