@@ -15,7 +15,7 @@ SWITZERLAND\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
 [ELLO](https://ello.co/szwrc "ELLO") @szwrc\
-[GITHUB](https://github.com/szwrc "GITHUB") szwrc\
+[GITHUB](https://github.com/szwrc "GITHUB") szwrc ⚒︎\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
@@ -33,7 +33,7 @@ SWITZERLAND\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") @szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") @szwrc\
-[WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
+[WEB](https://szwrc.co "SZWRC&CO") szwrc.co ⚑\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
 [![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518)](https://szwrc.co "SZWRC&CO")\
