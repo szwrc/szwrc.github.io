@@ -33,7 +33,9 @@ SWITZERLAND\
 [twitter.com/szwrc](https://twitter.com/szwrc "TWITTER")\
 [websitecarbon.com/website/szwrc-co](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON")\
 ✂︎・・・・・・・・・・\
-![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518 "SZWRC&CO")\
+[![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518)](https://szwrc.co)\
 ✂︎・・・・・・・・・・\
-![🆂🆉 SZWRC](https://szwrc.co/szwrc.png "🆂🆉 SZWRC")\
+[![🆂🆉 SZWRC](https://szwrc.co/szwrc.png)](https://linkedin.com/in/szwrc)\
 ✂︎・・・・・・・・・・
+
+
