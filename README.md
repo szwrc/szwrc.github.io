@@ -14,7 +14,7 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
-[ELLO](https://ello.co/szwrc "ELLO") szwrc\
+[ELLO](https://ello.co/szwrc "ELLO") @szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
@@ -23,14 +23,14 @@ SWITZERLAND\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") @szwrc\
-[MEDIUM](https://szwrc.medium.com/ "MEDIUM") szwrc\
+[MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") @szwrc\
 [ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") @szwrc\
-[REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
-[TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
+[REDDIT](https://reddit.com/user/szwrc "REDDIT") u/szwrc\
+[TELEGRAM](https://t.me/szwrc "TELEGRAM") @szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") @szwrc\
 [WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
