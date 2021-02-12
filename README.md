@@ -19,7 +19,7 @@ SWITZERLAND\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
-[LINKEDIN](https://linkedin.com/comapny/szwrc "LINKEDIN") szwrc&co\
+[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") @szwrc\
