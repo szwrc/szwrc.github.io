@@ -12,7 +12,7 @@ TECHNOPARKSTRASSE 1\
 8005 ZÜRICH\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
-[about.me/szwrc](https://about.me/szwrc "ABOUT.ME")\
+[about.me/szwrc](https://about.me/szwrc "ABOUT")\
 [discord.com/szwrc](https://discordhub.com/profile/809384130847571998 "DISCORD")\
 [ello.co/szwrc](https://ello.co/szwrc "ELLO")\
 [github.com/szwrc](https://github.com/szwrc "GITHUB")\
@@ -22,6 +22,7 @@ SWITZERLAND\
 [linkedin.com/company/szwrc](http://linkedin.com/company/szwrc "LINKEDIN")\
 [linkedin.com/in/szwrc](https://linkedin.com/in/szwrc "LINKEDIN")\
 [mastodon.online/@szwrc](https://mastodon.online/@szwrc "MASTODON")\
+[orcid.org/0000-0001-7745-0497](https://orcid.org/0000-0001-7745-0497 "ORCID")\
 [pinterest.com/szwrc](https://pinterest.com/szwrc "PINTEREST")\
 [plausible.io/szwrc.co](https://plausible.io/szwrc.co "PLAUSIBLE")\
 [pocket.com/@szwrc](https://getpocket.com/@szwrc "POCKET")\
@@ -38,5 +39,6 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [![🆂🆉 SZWRC](https://szwrc.co/szwrc.png)](https://linkedin.com/in/szwrc "🆂🆉 SZWRC")\
 ✂︎・・・・・・・・・・
+
 
 
