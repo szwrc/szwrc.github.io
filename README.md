@@ -20,8 +20,8 @@ SWITZERLAND\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
-[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
+[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
