@@ -17,6 +17,7 @@ SWITZERLAND\
 [ELLO](https://ello.co/szwrc "ELLO") @szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
+[HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
 [LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
@@ -36,7 +37,7 @@ SWITZERLAND\
 [WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
-[![SZWRC&CO](https://repository-images.githubusercontent.com/66646421/f1ca4a80-5df1-11eb-943d-90d7f44c5518)](https://szwrc.co "SZWRC&CO")\
+[![SZWRC&CO](https://szwrc.co/szwrcco.png)](https://szwrc.co "SZWRC&CO")\
 ✂︎・・・・・・・・・・\
 [![🆂🆉 SZWRC](https://szwrc.co/szwrc.png)](https://linkedin.com/in/szwrc "🆂🆉 SZWRC")\
 ✂︎・・・・・・・・・・
