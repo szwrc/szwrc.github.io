@@ -14,7 +14,7 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
-[ELLO](https://ello.co/szwrc "ELLO") @szwrc\
+[ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
@@ -23,17 +23,17 @@ SWITZERLAND\
 [LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
-[MASTODON](https://mastodon.online/@szwrc "MASTODON") @szwrc\
+[MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
-[OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") @szwrc\
+[OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
 [ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
-[POCKET](https://getpocket.com/@szwrc "POCKET") @szwrc\
+[POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") u/szwrc\
-[TELEGRAM](https://t.me/szwrc "TELEGRAM") @szwrc\
+[TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
-[TWITTER](https://twitter.com/szwrc "TWITTER") @szwrc\
+[TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
 [WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
