@@ -5,7 +5,6 @@ INTERTWINGULARITY\
 [__SZWRC__](https://szwrc.co/contact.html "🆂🆉 SZWRC")\
 __[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
 Partner\
-[info@szwrc.co](mailto:info@szwrc.co "info@szwrc.co")\
 [+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\
 ✂︎・・・・・・・・・・\
 ℅\
