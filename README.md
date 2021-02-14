@@ -8,7 +8,7 @@ Partner\
 [info@szwrc.co](mailto:info@szwrc.co "info@szwrc.co")\
 [+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\
 ✂︎・・・・・・・・・・\
-℅\
+[℅](https://www.technopark.ch/en/ "TECHNOPARK")\
 TECHNOPARKSTRASSE 1\
 8005 ZÜRICH\
 SWITZERLAND\
