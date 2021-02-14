@@ -2,7 +2,7 @@
 [![🆂🆉](https://szwrc.co/favicon-32x32.png)](https://szwrc.co "🆂🆉")\
 INTERTWINGULARITY\
 ✂︎・・・・・・・・・・\
-[__SZWRC__](https://szwrc.co/contact.html "🆂🆉 SZWRC")\
+[__SZWRC__](https://szwrc.co/contact "🆂🆉 SZWRC")\
 __[SZWRC&CO](https://szwrc.co "SZWRC&CO")__\
 Partner\
 [+41 78 749 73 97 ☎︎](tel:+41787497397 "+41 78 749 73 97 ☎︎")\

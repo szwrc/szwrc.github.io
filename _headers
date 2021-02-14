@@ -3,3 +3,9 @@
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
+
+/
+Content-Type: text/html; charset=UTF-8
+
+/contact
+Content-Type: text/html; charset=UTF-8
