@@ -37,7 +37,7 @@ SWITZERLAND\
 [WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
-[![🆂🆉 SZWRC](https://szwrc.co/szwrc.png)](https://linkedin.com/in/szwrc "🆂🆉 SZWRC")\
+[![SZWRC](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "SZWRC")\
 ✂︎・・・・・・・・・・
 
 
