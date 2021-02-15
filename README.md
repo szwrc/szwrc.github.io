@@ -1,5 +1,5 @@
 ✂︎・・・・・・・・・・\
-[![🆂🆉](https://szwrc.co/favicon-32x32.png)](https://szwrc.co "🆂🆉")\
+[![🆂🆉](https://szwrc.co/apple-touch-icon.png)](https://szwrc.co "🆂🆉")\
 INTERTWINGULARITY\
 ✂︎・・・・・・・・・・\
 [__SZWRC__](https://szwrc.co/contact "🆂🆉 SZWRC")\
