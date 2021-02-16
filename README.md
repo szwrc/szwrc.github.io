@@ -33,7 +33,7 @@ SWITZERLAND\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
-[REDDIT](https://reddit.com/user/szwrc "REDDIT") u/szwrc\
+[REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
@@ -42,6 +42,7 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [![SZWRC](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "SZWRC")\
 ✂︎・・・・・・・・・・\
+\
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a5be66d1-d2cb-4fe7-9c11-1fe6adf68469/deploy-status)](https://app.netlify.com/sites/szwrc/deploys)
 
 
