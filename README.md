@@ -40,7 +40,8 @@ SWITZERLAND\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
 [![SZWRC](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "SZWRC")\
-✂︎・・・・・・・・・・
+✂︎・・・・・・・・・・\
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5be66d1-d2cb-4fe7-9c11-1fe6adf68469/deploy-status)](https://app.netlify.com/sites/szwrc/deploys)
 
 
 
