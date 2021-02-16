@@ -17,6 +17,7 @@ SWITZERLAND\
 [ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
+[GUMROAD](https://gumroad.com/szwrc "GUMROAD") szwrc&co\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
