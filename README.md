@@ -28,6 +28,7 @@ SWITZERLAND\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
 [ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
+[PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
