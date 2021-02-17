@@ -35,8 +35,8 @@
       "address":
       {
         "@type": "PostalAddress",
-        "streetAddress": "Technoparkstrasse 1",
-        "addressLocality": "Zürich",
+        "streetAddress": "TECHNOPARKSTRASSE 1",
+        "addressLocality": "ZÜRICH",
         "postalCode": "8005",
         "addressCountry": "CH"
       },
