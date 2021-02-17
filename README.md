@@ -37,7 +37,7 @@ SWITZERLAND\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
-[WEB](https://szwrc.co "SZWRC&CO") szwrc.co ✖︎\
+[WEB](https://szwrc.co "SZWRC&CO") szwrc&co ✖︎\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
 [![SZWRC](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "SZWRC")\
