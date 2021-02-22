@@ -13,17 +13,19 @@ TECHNOPARKSTRASSE 1\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
+[CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co 🆂🅲🅷🅴🅳🆄🅻🅴\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
 [ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
-[GUMROAD](https://gumroad.com/szwrc "GUMROAD") szwrc&co\
+[GUMROAD](https://gumroad.com/szwrc "GUMROAD") szwrc&co 🅱🅾🅾🅺\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
+[LMGTFY](https://lmgtfy.app/#gsc.tab=0&gsc.q=szwrc "LMGTFY") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
