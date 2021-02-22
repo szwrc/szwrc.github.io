@@ -13,12 +13,12 @@ TECHNOPARKSTRASSE 1\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
-[CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __ℹ︎__\
+[CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __scheduleℹ︎__\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
 [ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
-[GUMROAD](https://gumroad.com/szwrc "GUMROAD") szwrc&co __ℹ︎__\
+[GUMROAD](https://gumroad.com/szwrc "GUMROAD") szwrc&co __bookℹ︎__\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
