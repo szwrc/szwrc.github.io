@@ -25,7 +25,6 @@ SWITZERLAND\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
-[LMGTFY](https://lmgtfy.app/#gsc.tab=0&gsc.q=szwrc "LMGTFY") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
