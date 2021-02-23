@@ -23,14 +23,14 @@ SWITZERLAND\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
-[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co\
+[LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co __ℹ︎__\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
 [ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
-[PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co\
+[PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
@@ -38,7 +38,7 @@ SWITZERLAND\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
-[WEB](https://szwrc.co "SZWRC&CO") szwrc&co ✖︎\
+[WEB](https://szwrc.co "SZWRC&CO") szwrc&co __ℹ︎__\
 [WEBSITECARBON](https://websitecarbon.com/website/szwrc-co "WEBSITECARBON") szwrc.co\
 ✂︎・・・・・・・・・・\
 [![SZWRC](https://szwrc.co/szwrc.png)](https://szwrc.co/szwrc.vcf "SZWRC")\
