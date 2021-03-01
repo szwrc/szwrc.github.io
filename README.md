@@ -17,6 +17,7 @@ SWITZERLAND\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
 [ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
+[GITLAB](https://gitlab.com/szwrc "GITLAB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
 [GUMROAD](https://gumroad.com/l/szwrc "GUMROAD") szwrc&co __ℹ︎__\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
