@@ -19,7 +19,6 @@ SWITZERLAND\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GITLAB](https://gitlab.com/szwrc "GITLAB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
-[GUMROAD](https://gumroad.com/l/szwrc "GUMROAD") szwrc&co __ℹ︎__\
 [HACKERNEWS](https://news.ycombinator.com/user?id=szwrc "HACKERNEWS") szwrc\
 [INSTAGRAM](https://instagram.com/szwrc "INSTAGRAM") szwrc\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
