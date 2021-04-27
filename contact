@@ -1,10 +1,15 @@
 <!DOCTYPE HTML>
 <html lang='en'>
   <head>
-    <title>SZWRC&amp;CO &#9742;</title>
     <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>SZWRC&amp;CO &#9742;</title>
+
     <meta name='author' content='SZWRC'>
     <meta name='description' content='INTERTWINGULARITY &#9742;'>
+    <meta name='geo.placename' content='ZÜRICH'>
+    <meta name='geo.position' content='47.3769,8.5417'>
+    <meta name='geo.region' content='CH-ZH'>
     <meta name='keywords' content='SZ SZWRC INTERTWINGULARITY'>
     <meta name='theme-color' content='#FFFFFF'>
     <meta name='twitter:card' content='summary'>
@@ -12,7 +17,7 @@
     <meta name='twitter:image' content='https://szwrc.co/apple-touch-icon.png'>
     <meta name='twitter:site' content='@szwrc'>
     <meta name='twitter:title' content='SZWRC&amp;CO &#9742;'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    
     <meta property='og:description' content='INTERTWINGULARITY'>
     <meta property='og:image' content='https://szwrc.co/android-chrome-512x512.png'>
     <meta property='og:locale' content='en_US'>
@@ -20,6 +25,7 @@
     <meta property='og:title' content='SZWRC&amp;CO &#9742;'>
     <meta property='og:type' content='website'>
     <meta property='og:url' content='https://szwrc.co/contact'>
+    
     <link rel='alternate' href='https://szwrc.co/contact' hreflang='en'>
     <link rel='apple-touch-icon' sizes='180x180' href='apple-touch-icon.png'>
     <link rel='author' href='https://szwrc.co/contact'>
@@ -30,6 +36,7 @@
     <link rel='manifest' href='site.webmanifest'>
     <link rel='next' href='https://szwrc.co/'>
     <link rel='prev' href='https://szwrc.co/'>
+    
     <script async defer data-domain='szwrc.co' src='https://stats.szwrc.co/js/index.js'></script>
     <script type="application/ld+json">
     {
