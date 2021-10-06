@@ -14,6 +14,7 @@ SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
 [CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __ℹ︎__\
+[CLUBHOUSE](https://clubhouse.com/@szwrc0 "CLUBHOUSE") szwrc\
 [DISCORD](https://discordhub.com/profile/809384130847571998 "DISCORD") szwrc\
 [ELLO](https://ello.co/szwrc "ELLO") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
