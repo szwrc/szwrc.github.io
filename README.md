@@ -25,6 +25,7 @@ SWITZERLAND\
 [KEYBASE](https://keybase.io/szwrc "KEYBASE") szwrc\
 [LINKEDIN](https://linkedin.com/in/szwrc "LINKEDIN") szwrc\
 [LINKEDIN](https://linkedin.com/company/szwrc "LINKEDIN") szwrc&co __ℹ︎__\
+[LINKTREE](https://linktr.ee/szwrc "LINKTREE") szwrc\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
@@ -36,6 +37,7 @@ SWITZERLAND\
 [PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
+[SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
