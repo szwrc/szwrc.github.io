@@ -36,7 +36,6 @@ SWITZERLAND\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
 [PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
-[POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
 [SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
