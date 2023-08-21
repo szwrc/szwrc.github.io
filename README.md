@@ -34,10 +34,8 @@ SWITZERLAND\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
 [NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
-[ORCID](https://orcid.org/0000-0001-7745-0497 "ORCID") № 0000-0001-7745-0497\
 [PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
-[PLAUSIBLE](https://plausible.io/szwrc.co "PLAUSIBLE") szwrc.co\
 [POCKET](https://getpocket.com/@szwrc "POCKET") szwrc\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
 [SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
