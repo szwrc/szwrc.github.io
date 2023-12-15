@@ -39,6 +39,7 @@ SWITZERLAND\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
 [SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
+[THREADS](https://threads.net/@szwrc "THREADS") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
 [TWITTER](https://twitter.com/szwrc "TWITTER") szwrc\
 [WEB](https://szwrc.co "SZWRC&CO") szwrc&co __ℹ︎__\
