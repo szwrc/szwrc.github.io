@@ -13,7 +13,8 @@ TECHNOPARKSTRASSE 1\
 SWITZERLAND\
 ✂︎・・・・・・・・・・\
 [ABOUT](https://about.me/szwrc "ABOUT") szwrc\
-[BEHANCE](https://www.behance.net/szwrc "BEHANCE") szwrc\
+[BEHANCE](https://behance.net/szwrc "BEHANCE") szwrc\
+[BLUESKY](https://bsky.app/profile/szwrc.co "BLUESKY") szwrc\
 [CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __ℹ︎__\
 [CLUBHOUSE](https://clubhouse.com/@szwrc0 "CLUBHOUSE") szwrc\
 [CODEPEN](https://codepen.io/szwrc "CODEPEN") szwrc\
