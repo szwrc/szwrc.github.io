@@ -64,7 +64,8 @@
       [
         "https://about.me/szwrc",
         "https://app.netlify.com/sites/szwrc/deploys",
-        "https://www.behance.net/szwrc",
+        "https://behance.net/szwrc",
+        "https://bsky.app/profile/szwrc.co",
         "https://calendly.com/szwrc",
         "https://clubhouse.com/@szwrc0",
         "https://codepen.io/szwrc",
@@ -152,6 +153,7 @@
       <p>
         <!-- ABOUT --><a href='https://about.me/szwrc' rel='me' title='ABOUT'>ABOUT</a>&nbsp;szwrc<br>
         <!-- BEHANCE --><a href='https://www.behance.net/szwrc' rel='me' title='BEHANCE'>BEHANCE</a>&nbsp;szwrc<br>
+        <!-- BLUESKY --><a href='https://bsky.app/profile/szwrc.co' rel='me' title='BLUESKY'>BLUESKY</a>&nbsp;szwrc<br>
         <!-- CALENDLY --><a href='https://calendly.com/szwrc/15min' rel='me' title='CALENDLY'>CALENDLY</a>&nbsp;szwrc&co<strong title='SCHEDULE'>&nbsp;ℹ︎&nbsp;</strong><br>
         <!-- CLUBHOUSE --><a href='https://clubhouse.com/@szwrc0' rel='me' title='CLUBHOUSE'>CLUBHOUSE</a>&nbsp;szwrc<br>
         <!-- CODEPEN --><a href='https://codepen.io/szwrc' rel='me' title='CODEPEN'>CODEPEN</a>&nbsp;szwrc<br>
