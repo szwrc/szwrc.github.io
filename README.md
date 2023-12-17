@@ -30,6 +30,7 @@ SWITZERLAND\
 [LIVEJOURNAL](https://szwrc.livejournal.com/profile "LIVEJOURNAL") szwrc\
 [MASTODON](https://mastodon.online/@szwrc "MASTODON") szwrc\
 [MEDIUM](https://szwrc.medium.com/about "MEDIUM") szwrc\
+[MMM](https://szwrc.mmm.page/ "MMM") szwrc\
 [NETLIFY](https://app.netlify.com/sites/szwrc/deploys "NETLIFY") szwrc.co\
 [OBSERVABLE](https://observablehq.com/@szwrc "OBSERVABLE") szwrc\
 [PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
