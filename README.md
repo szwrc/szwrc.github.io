@@ -36,7 +36,7 @@ SWITZERLAND\
 [PAYPAL](https://paypal.me/szwrc "PAYPAL") szwrc&co __ℹ︎__\
 [PINTEREST](https://pinterest.com/szwrc "PINTEREST") szwrc\
 [REDDIT](https://reddit.com/user/szwrc "REDDIT") szwrc\
-[SUBSTACK](https://szwrc.substack.com/ "SUBSTACK") szwrc\
+[SUBSTACK](https://substack.com/@szwrc "SUBSTACK") szwrc\
 [TELEGRAM](https://t.me/szwrc "TELEGRAM") szwrc\
 [THREADS](https://threads.net/@szwrc "THREADS") szwrc\
 [TUMBLR](https://szwrc.tumblr.com/ "TUMBLR") szwrc\
