@@ -18,6 +18,7 @@ SWITZERLAND\
 [CALENDLY](https://calendly.com/szwrc/15min "CALENDLY") szwrc&co __ℹ︎__\
 [CLUBHOUSE](https://clubhouse.com/@szwrc0 "CLUBHOUSE") szwrc\
 [CODEPEN](https://codepen.io/szwrc "CODEPEN") szwrc\
+[DAFT](https://daftsocial.com/szwrc "DAFT") szwrc\
 [GITHUB](https://github.com/szwrc "GITHUB") szwrc\
 [GITLAB](https://gitlab.com/szwrc "GITLAB") szwrc\
 [GRAVATAR](https://gravatar.com/szwrc "GRAVATAR") szwrc\
